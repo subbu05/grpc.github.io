@@ -53,7 +53,7 @@ command:
 $ go get google.golang.org/grpc
 ```
 
-Then change your current directory to `grpc-go/examples/route_guide`:
+Then change your current directory to `grpc/examples/route_guide`:
 
 ```
 $ cd $GOPATH/src/google.golang.org/grpc/examples/route_guide
